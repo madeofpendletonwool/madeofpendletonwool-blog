@@ -9,7 +9,7 @@ links:
     description: Pinepods is a complete self-hosted podcasts management system and allows you to play, download, and keep track of podcasts you enjoy.
     website: https://github.com/madeofpendletonwool/PinePods
     image: favicon.png
-  - title: Pinepods
+  - title: Pinepods Firewood
     description: A light, cli client for Pinepods that can also be used to beam podcasts to. Written entirely in rust.
     website: https://github.com/madeofpendletonwool/pinepods-firewood
     image: favicon.png
