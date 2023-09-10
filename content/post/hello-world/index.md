@@ -10,13 +10,11 @@ tags = [
     "Hello",
     "About"
 ]
-image = "20220724_144641.jpg"
+image = "cropbike.jpg"
 +++
 
 
 Hello World! I'm Collin Pendleton, a Devops and Infrastructure Engineer from La Crosse WI. I enjoy homelabbing, software development, learning new programming languages, reading nerdy books, biking, video games, craft beer, and craft coffee.
-
-![Collin with a sign](20220724_144641.jpg)
 
 I'm starting up this blog for many of the same reasons everyone starts writing a blog. To provide the internet with information, to provide entertainment, save my own bacon by documenting my processes, and perhaps to save someone's job who needs to implement the same infrastructure that I already have (just please don't do it on a Friday.)
 
