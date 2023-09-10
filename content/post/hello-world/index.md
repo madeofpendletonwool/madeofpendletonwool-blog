@@ -10,7 +10,7 @@ tags = [
     "Hello",
     "About"
 ]
-image = "cropbike.jpg"
+image = "cropbike.png"
 +++
 
 
