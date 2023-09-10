@@ -33,7 +33,7 @@ rssFullContent = true
 
   [params.sidebar]
   emoji = "🍥"
-  subtitle = "SheepToShell: Tech Tales and the Wooly Side of DevOps"
+  subtitle = "Tech Tales and the Wooly Side of DevOps"
 
     [params.sidebar.avatar]
     enabled = true
